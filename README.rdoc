@@ -1,6 +1,6 @@
 = map-fields
 
-Original by Andrea Timberlake:
+Original by Andrew Timberlake:
 
 * http://github.com/internuity/map-fields
 
